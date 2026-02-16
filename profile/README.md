@@ -1,18 +1,17 @@
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-    <img src="./perix-logo.png" width="80" alt="Perix Logo" style="margin-right: 15px;"/>
-    <h1 style="margin: 0; font-size: 3em;">PERIX</h1>
-  </div>
+<div style="display: flex; align-items: center;">
+  <img src="./perix-logo.png" width="100" style="margin-right: 20px;" alt="Perix Logo"/>
   
-  <p>
+  <div>
+    <h1 style="margin: 0; font-size: 3em; line-height: 1;">PERIX</h1>
+    <h3 style="margin: 5px 0 10px 0; font-weight: normal;">Perception Becomes Construction</h3>
+    
     <a href="https://www.perix.ai">
       <img src="https://img.shields.io/badge/Verified-www.perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
-  </p>
-
-  <h3>Perception Becomes Construction</h3>
-  <br/>
+  </div>
 </div>
+
+<br/>
 
 ---
 
@@ -44,6 +43,6 @@ We operate at the intersection of **Data + AI**, focusing on solving the "last m
 
 ---
 
-<div align="center">
+<div align="left">
   <sub>© 2026 Perix Inc. All rights reserved.</sub>
 </div>
