@@ -1,21 +1,26 @@
-<table>
-  <tr>
-    <td width="120" valign="middle">
-      <img src="./perix-logo.png" width="100" alt="Perix Logo"/>
-    </td>
-    <td valign="middle">
-      <h1 style="margin-bottom: 0;">PERIX</h1>
-      <p style="margin-top: 0; margin-bottom: 10px;">
-        Perception Becomes Construction
-      </p>
-      <a href="https://www.perix.ai">
-        <img src="https://img.shields.io/badge/Verified-www.perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="100" valign="middle">
+        <img src="./perix-logo.png" width="80" alt="Perix Logo"/>
+      </td>
+      
+      <td valign="middle" align="left">
+        <h1 style="margin: 0; border: none;">PERIX</h1>
+        <p style="margin-top: 5px; margin-bottom: 10px;">
+          Perception Becomes Construction
+        </p>
+        <a href="https://www.perix.ai">
+          <img src="https://img.shields.io/badge/Verified-www.perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
+
+---
 
 ### mission ://
 
@@ -45,6 +50,6 @@ We operate at the intersection of **Data + AI**, focusing on solving the "last m
 
 ---
 
-<div align="left">
+<div align="center">
   <sub>© 2026 Perix Inc. All rights reserved.</sub>
 </div>
