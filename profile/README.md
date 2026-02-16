@@ -1,15 +1,20 @@
-<div style="display: flex; align-items: center;">
-  <img src="./perix-logo.png" width="100" style="margin-right: 20px;" alt="Perix Logo"/>
-  
-  <div>
-    <h1 style="margin: 0; font-size: 3em; line-height: 1;">PERIX</h1>
-    <h3 style="margin: 5px 0 10px 0; font-weight: normal;">Perception Becomes Construction</h3>
+<table>
+  <tr>
+    <td width="120" valign="middle">
+      <img src="./perix-logo.png" width="100" alt="Perix Logo"/>
+    </td>
     
-    <a href="https://www.perix.ai">
-      <img src="https://img.shields.io/badge/Verified-www.perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
-    </a>
-  </div>
-</div>
+    <td valign="middle">
+      <h1 style="margin-bottom: 0;">PERIX</h1>
+      <p style="margin-top: 0; margin-bottom: 10px;">
+        Perception Becomes Construction
+      </p>
+      <a href="https://www.perix.ai">
+        <img src="https://img.shields.io/badge/Verified-www.perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
