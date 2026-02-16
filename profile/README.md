@@ -1,6 +1,6 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-    <img src="./logo.png" width="80" alt="Perix Logo" style="margin-right: 15px;"/>
+    <img src="./perix-logo.png" width="80" alt="Perix Logo" style="margin-right: 15px;"/>
     <h1 style="margin: 0; font-size: 3em;">PERIX</h1>
   </div>
   
