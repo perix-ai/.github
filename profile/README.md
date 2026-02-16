@@ -37,7 +37,7 @@ We operate at the intersection of **Data + AI**, focusing on solving the "last m
 
 ### contact ://
 
-* 🌐 **Website**: [perix.ai](https://perix.ai)
+* 🌐 **Website**: [perix.ai](www.perix.ai)
 * 📧 **Email**: contact@perix.ai
 * 🐦 **Twitter**: [@PerixAI](https://twitter.com/)
 
