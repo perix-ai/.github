@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="./perix-logo.png" width="150" alt="Perix Logo"/>
-  
-  <h1>PERIX</h1>
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+    <img src="./logo.png" width="80" alt="Perix Logo" style="margin-right: 15px;"/>
+    <h1 style="margin: 0; font-size: 3em;">PERIX</h1>
+  </div>
   
   <p>
-    <a href="https://perix.ai">
-      <img src="https://img.shields.io/badge/Verified-perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
+    <a href="https://www.perix.ai">
+      <img src="https://img.shields.io/badge/Verified-www.perix.ai-success?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/>
     </a>
   </p>
 
@@ -37,8 +38,8 @@ We operate at the intersection of **Data + AI**, focusing on solving the "last m
 
 ### contact ://
 
-* 🌐 **Website**: [perix.ai](www.perix.ai)
-* 📧 **Email**: contact@perix.ai
+* 🌐 **Website**: [www.perix.ai](https://www.perix.ai)
+* 📧 **Email**: [heikiscott@gmail.com](mailto:heikiscott@gmail.com)
 * 🐦 **Twitter**: [@PerixAI](https://twitter.com/)
 
 ---
