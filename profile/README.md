@@ -3,7 +3,6 @@
     <td width="120" valign="middle">
       <img src="./perix-logo.png" width="100" alt="Perix Logo"/>
     </td>
-    
     <td valign="middle">
       <h1 style="margin-bottom: 0;">PERIX</h1>
       <p style="margin-top: 0; margin-bottom: 10px;">
@@ -17,8 +16,6 @@
 </table>
 
 <br/>
-
----
 
 ### mission ://
 
