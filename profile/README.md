@@ -41,7 +41,7 @@ We operate at the intersection of **Data + AI**, focusing on solving the "last m
 
 * 🌐 **Website**: [www.perix.ai](https://www.perix.ai)
 * 📧 **Email**: [heikiscott@gmail.com](mailto:heikiscott@gmail.com)
-* 🐦 **Twitter**: [@PerixAI](https://twitter.com/)
+* 🐦 **X**: [@PerixAI](https://twitter.com/)
 
 ---
 
