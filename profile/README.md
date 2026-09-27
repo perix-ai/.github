@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="120" valign="middle">
-      <img src="https://github.com/user-attachments/assets/036f8748-7395-492a-a5dc-6a9ab61284bd" width="100" alt="Perix geometric P logo"/>
+      <img src="./01.png" width="100" alt="Perix geometric P logo"/>
     </td>
     <td valign="middle">
       <h1 style="margin-bottom: 0;">PERIX</h1>
